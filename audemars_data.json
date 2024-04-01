@@ -1,0 +1,85 @@
+[
+  {
+    "brand_name": "Audemars Piguet",
+    "model_name": "Royal Oak",
+    "price": "5477",
+    "datetime": "01/04/2024"
+  },
+  {
+    "image": "https://cdn2.chrono24.com/cdn-cgi/image/f=auto,metadata=none,q=65,h=305/images/topmodels/117-0dq9oczgax9yhj5qt09b1fsv-Original.png",
+    "brand_name": "Audemars Piguet",
+    "model_name": "Royal Oak Offshore",
+    "price": "3568",
+    "datetime": "01/04/2024"
+  },
+  {
+    "image": "https://cdn2.chrono24.com/cdn-cgi/image/f=auto,metadata=none,q=65,h=305/images/topmodels/112-ymjx2895npvvan6629wbppq8-Original.png",
+    "brand_name": "Audemars Piguet",
+    "model_name": "Jules Audemars",
+    "price": "6709",
+    "datetime": "01/04/2024"
+  },
+  {
+    "image": "https://cdn2.chrono24.com/cdn-cgi/image/f=auto,metadata=none,q=65,h=305/images/topmodels/111-9u51vzk6dpzwp34r8saq00zg-Original.png",
+    "brand_name": "Audemars Piguet",
+    "model_name": "Edward Piguet",
+    "price": "5026",
+    "datetime": "01/04/2024"
+  },
+  {
+    "image": "https://cdn2.chrono24.com/cdn-cgi/image/f=auto,metadata=none,q=65,h=305/images/topmodels/1170-uuo38gcw9ec86xd69qvulwkx-Original.png",
+    "brand_name": "Audemars Piguet",
+    "model_name": "Royal Oak Chronograph",
+    "price": "24379",
+    "datetime": "01/04/2024"
+  },
+  {
+    "image": "https://cdn2.chrono24.com/cdn-cgi/image/f=auto,metadata=none,q=65,h=305/images/topmodels/2368-ikd781tia3n1rfyed33pgzso-Original.png",
+    "brand_name": "Audemars Piguet",
+    "model_name": "Royal Oak Concept",
+    "price": "132145",
+    "datetime": "01/04/2024"
+  },
+  {
+    "image": "https://cdn2.chrono24.com/cdn-cgi/image/f=auto,metadata=none,q=65,h=305/images/topmodels/2418-t16y3d6cjvqzag6axr7264rv-Original.png",
+    "brand_name": "Audemars Piguet",
+    "model_name": "Royal Oak Dual Time",
+    "price": "26484",
+    "datetime": "01/04/2024"
+  },
+  {
+    "image": "https://cdn2.chrono24.com/cdn-cgi/image/f=auto,metadata=none,q=65,h=305/images/topmodels/1177-wugpfdlkkz5ie2od4y1w8rlm-Original.png",
+    "brand_name": "Audemars Piguet",
+    "model_name": "Royal Oak Offshore Chronograph",
+    "price": "16854",
+    "datetime": "01/04/2024"
+  },
+  {
+    "image": "https://cdn2.chrono24.com/cdn-cgi/image/f=auto,metadata=none,q=65,h=305/images/topmodels/1176-hs3tqa0p4c96tsxn2cn2uo6w-Original.png",
+    "brand_name": "Audemars Piguet",
+    "model_name": "Royal Oak Offshore Diver",
+    "price": "17930",
+    "datetime": "01/04/2024"
+  },
+  {
+    "image": "https://cdn2.chrono24.com/cdn-cgi/image/f=auto,metadata=none,q=65,h=305/images/topmodels/1173-lq97x3l1dfip4btg2b40kbu5-Original.png",
+    "brand_name": "Audemars Piguet",
+    "model_name": "Royal Oak Perpetual Calendar",
+    "price": "85125",
+    "datetime": "01/04/2024"
+  },
+  {
+    "image": "https://cdn2.chrono24.com/cdn-cgi/image/f=auto,metadata=none,q=65,h=305/images/topmodels/1172-wlv6776jcxpkchgv57l6kuk2-Original.png",
+    "brand_name": "Audemars Piguet",
+    "model_name": "Royal Oak Selfwinding",
+    "price": "27370",
+    "datetime": "01/04/2024"
+  },
+  {
+    "image": "https://cdn2.chrono24.com/cdn-cgi/image/f=auto,metadata=none,q=65,h=305/images/topmodels/1171-a6hvddff15hqs8d8rnc2neu7-Original.png",
+    "brand_name": "Audemars Piguet",
+    "model_name": "Royal Oak Tourbillon",
+    "price": "83981",
+    "datetime": "01/04/2024"
+  }
+]
