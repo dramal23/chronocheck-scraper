@@ -1,0 +1,57 @@
+[
+  {
+    "brand_name": "Hamilton",
+    "model_name": "Khaki Field",
+    "price": "205",
+    "datetime": "24/04/2024"
+  },
+  {
+    "image": "https://cdn2.chrono24.com/cdn-cgi/image/f=auto,metadata=none,q=65,h=305/images/topmodels/813-tgxa12yeypk2zt5l0s0czgmf-Original.png",
+    "brand_name": "Hamilton",
+    "model_name": "Khaki Aviation",
+    "price": "444",
+    "datetime": "24/04/2024"
+  },
+  {
+    "image": "https://cdn2.chrono24.com/cdn-cgi/image/f=auto,metadata=none,q=65,h=305/images/topmodels/808-hbbjw9hg4pjxnxky4gahtddh-Original.png",
+    "brand_name": "Hamilton",
+    "model_name": "Khaki Navy",
+    "price": "463",
+    "datetime": "24/04/2024"
+  },
+  {
+    "image": "https://cdn2.chrono24.com/cdn-cgi/image/f=auto,metadata=none,q=65,h=305/images/topmodels/2459-h6m4uo59mywotyh43mshox9x-Original.png",
+    "brand_name": "Hamilton",
+    "model_name": "Broadway",
+    "price": "331",
+    "datetime": "24/04/2024"
+  },
+  {
+    "image": "https://cdn2.chrono24.com/cdn-cgi/image/f=auto,metadata=none,q=65,h=305/images/topmodels/819-svacaggt9d8o5rq8nk5xu0d6-Original.png",
+    "brand_name": "Hamilton",
+    "model_name": "Jazzmaster",
+    "price": "206",
+    "datetime": "24/04/2024"
+  },
+  {
+    "image": "https://cdn2.chrono24.com/cdn-cgi/image/f=auto,metadata=none,q=65,h=305/images/topmodels/833-g88szg7s00p2qoqieu1w7opz-Original.png",
+    "brand_name": "Hamilton",
+    "model_name": "Intra-Matic",
+    "price": "512",
+    "datetime": "24/04/2024"
+  },
+  {
+    "image": "https://cdn2.chrono24.com/cdn-cgi/image/f=auto,metadata=none,q=65,h=305/images/topmodels/830-uuzi2308gqkr8koute2qs57n-Original.png",
+    "brand_name": "Hamilton",
+    "model_name": "Ventura",
+    "price": "344",
+    "datetime": "24/04/2024"
+  },
+  {
+    "image": "https://cdn2.chrono24.com/cdn-cgi/image/f=auto,metadata=none,q=65,h=305/images/topmodels/834-30ffac6eid4f2seyct19d123-Original.png",
+    "brand_name": "Hamilton",
+    "model_name": "Valiant",
+    "price": "416",
+    "datetime": "24/04/2024"
+  }
+]

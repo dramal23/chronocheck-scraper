@@ -1,0 +1,57 @@
+[
+  {
+    "brand_name": "Blancpain",
+    "model_name": "Fifty Fathoms",
+    "price": "5974",
+    "datetime": "24/04/2024"
+  },
+  {
+    "image": "https://cdn2.chrono24.com/cdn-cgi/image/f=auto,metadata=none,q=65,h=305/images/topmodels/884-8gmds8l3q13ye9md2w9m35uw-Original.png",
+    "brand_name": "Blancpain",
+    "model_name": "Villeret",
+    "price": "3040",
+    "datetime": "24/04/2024"
+  },
+  {
+    "image": "https://cdn2.chrono24.com/cdn-cgi/image/f=auto,metadata=none,q=65,h=305/images/topmodels/886-2czbb5uxv5kf9uxrk0gcrd38-Original.png",
+    "brand_name": "Blancpain",
+    "model_name": "Léman",
+    "price": "3378",
+    "datetime": "24/04/2024"
+  },
+  {
+    "image": "https://cdn2.chrono24.com/cdn-cgi/image/f=auto,metadata=none,q=65,h=305/images/topmodels/2372-mdi0fjtx1dlde28qv0nub254-Original.png",
+    "brand_name": "Blancpain",
+    "model_name": "Air Command",
+    "price": "5586",
+    "datetime": "24/04/2024"
+  },
+  {
+    "image": "https://cdn2.chrono24.com/cdn-cgi/image/f=auto,metadata=none,q=65,h=305/images/topmodels/887-lwi7j1w1kmg0bcad5f06re28-Original.png",
+    "brand_name": "Blancpain",
+    "model_name": "L-Evolution",
+    "price": "7687",
+    "datetime": "24/04/2024"
+  },
+  {
+    "image": "https://cdn2.chrono24.com/cdn-cgi/image/f=auto,metadata=none,q=65,h=305/images/topmodels/889-sahrzokij2i8oup2mh8bg5go-Original.png",
+    "brand_name": "Blancpain",
+    "model_name": "Le Brassus",
+    "price": "15375",
+    "datetime": "24/04/2024"
+  },
+  {
+    "image": "https://cdn2.chrono24.com/cdn-cgi/image/f=auto,metadata=none,q=65,h=305/images/topmodels/888-x5fqe0i8ogun5oft2f382aop-Original.png",
+    "brand_name": "Blancpain",
+    "model_name": "Women",
+    "price": "5949",
+    "datetime": "24/04/2024"
+  },
+  {
+    "image": "https://cdn2.chrono24.com/cdn-cgi/image/f=auto,metadata=none,q=65,h=305/images/topmodels/1372-ujzl2sep9pgcecwuaip0auns-Original.png",
+    "brand_name": "Blancpain",
+    "model_name": "Fifty Fathoms Bathyscaphe",
+    "price": "6287",
+    "datetime": "24/04/2024"
+  }
+]

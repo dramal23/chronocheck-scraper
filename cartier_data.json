@@ -1,0 +1,85 @@
+[
+  {
+    "brand_name": "Cartier",
+    "model_name": "Tank",
+    "price": "981",
+    "datetime": "24/04/2024"
+  },
+  {
+    "image": "https://cdn2.chrono24.com/cdn-cgi/image/f=auto,metadata=none,q=65,h=305/images/topmodels/180-18zqsnzof5z6ahyx4kgn9seg-Original.png",
+    "brand_name": "Cartier",
+    "model_name": "Santos",
+    "price": "1199",
+    "datetime": "24/04/2024"
+  },
+  {
+    "image": "https://cdn2.chrono24.com/cdn-cgi/image/f=auto,metadata=none,q=65,h=305/images/topmodels/165-jy40bbyj1hl8m7ohu4hfuigh-Original.png",
+    "brand_name": "Cartier",
+    "model_name": "Ballon Bleu",
+    "price": "2686",
+    "datetime": "24/04/2024"
+  },
+  {
+    "image": "https://cdn2.chrono24.com/cdn-cgi/image/f=auto,metadata=none,q=65,h=305/images/topmodels/172-1v0s0z2rnwtc6eauh62rjfg5-Original.png",
+    "brand_name": "Cartier",
+    "model_name": "Pasha",
+    "price": "1301",
+    "datetime": "24/04/2024"
+  },
+  {
+    "image": "https://cdn2.chrono24.com/cdn-cgi/image/f=auto,metadata=none,q=65,h=305/images/topmodels/168-6j5wmbzy8u03cgv4zhnay0xl-Original.png",
+    "brand_name": "Cartier",
+    "model_name": "Panthère",
+    "price": "1198",
+    "datetime": "24/04/2024"
+  },
+  {
+    "image": "https://cdn2.chrono24.com/cdn-cgi/image/f=auto,metadata=none,q=65,h=305/images/topmodels/166-yfwb9h4fl9o37a5xxjjczb0v-Original.png",
+    "brand_name": "Cartier",
+    "model_name": "Calibre de Cartier",
+    "price": "2893",
+    "datetime": "24/04/2024"
+  },
+  {
+    "image": "https://cdn2.chrono24.com/cdn-cgi/image/f=auto,metadata=none,q=65,h=305/images/topmodels/164-jywrl0mswhb8ldd27n8yavtm-Original.png",
+    "brand_name": "Cartier",
+    "model_name": "Baignoire",
+    "price": "4660",
+    "datetime": "24/04/2024"
+  },
+  {
+    "image": "https://cdn2.chrono24.com/cdn-cgi/image/f=auto,metadata=none,q=65,h=305/images/topmodels/1049-kvd70ak708gxob6m7j1s9czi-Original.png",
+    "brand_name": "Cartier",
+    "model_name": "Crash",
+    "price": "265098",
+    "datetime": "24/04/2024"
+  },
+  {
+    "image": "https://cdn2.chrono24.com/cdn-cgi/image/f=auto,metadata=none,q=65,h=305/images/topmodels/2437-2lc3k11bzgh8gc8u5g281xwh-Original.png",
+    "brand_name": "Cartier",
+    "model_name": "Drive de Cartier",
+    "price": "4075",
+    "datetime": "24/04/2024"
+  },
+  {
+    "image": "https://cdn2.chrono24.com/cdn-cgi/image/f=auto,metadata=none,q=65,h=305/images/topmodels/2523-ypp3hdbcfnvwgyw0kh6lf0fx-Original.png",
+    "brand_name": "Cartier",
+    "model_name": "Ronde de Cartier",
+    "price": "1812",
+    "datetime": "24/04/2024"
+  },
+  {
+    "image": "https://cdn2.chrono24.com/cdn-cgi/image/f=auto,metadata=none,q=65,h=305/images/topmodels/453-0pn9kjenvnyuzsqx5xa1x4cm-Original.png",
+    "brand_name": "Cartier",
+    "model_name": "Rotonde de Cartier",
+    "price": "4417",
+    "datetime": "24/04/2024"
+  },
+  {
+    "image": "https://cdn2.chrono24.com/cdn-cgi/image/f=auto,metadata=none,q=65,h=305/images/topmodels/451-o7pwhf3u1vssktw7s9uikiff-Original.png",
+    "brand_name": "Cartier",
+    "model_name": "Tortue",
+    "price": "6430",
+    "datetime": "24/04/2024"
+  }
+]

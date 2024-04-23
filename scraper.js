@@ -55,11 +55,23 @@ async function scraper(url, fileName) {
     return result;
 }
 
+scraper("https://www.chrono24.com/blancpain/index.htm", "blancpain_data.json");
+scraper("https://www.chrono24.com/zenith/index.htm", "zenith_data.json");
+scraper("https://www.chrono24.com/longines/index.htm", "longines_data.json");
+scraper("https://www.chrono24.com/hamilton/index.htm", "hamilton_data.json");
+scraper("https://www.chrono24.com/hublot/index.htm", "hublot_data.json");
+
 scraper("https://www.chrono24.com/rolex/index.htm", "rolex_data.json");
-scraper("https://www.chrono24.com/patekphilippe/index.htm", "patek_data.json");
 scraper("https://www.chrono24.com/audemarspiguet/index.htm", "audemars_data.json");
-scraper("https://www.chrono24.com/omega/index.htm", "omega_data.json");
 scraper("https://www.chrono24.com/seiko/index.htm", "seiko_data.json");
+scraper("https://www.chrono24.com/omega/index.htm", "omega_data.json");
+scraper("https://www.chrono24.com/patekphilippe/index.htm", "patek_data.json");
+
+scraper("https://www.chrono24.com/tagheuer/index.htm", "tagheuer_data.json");
+scraper("https://www.chrono24.com/jaegerlecoultre/index.htm", "jaeger_data.json");
+scraper("https://www.chrono24.com/breitling/index.htm", "breitling_data.json");
+scraper("https://www.chrono24.com/tudor/index.htm", "tudor_data.json");
+scraper("https://www.chrono24.com/cartier/index.htm", "cartier_data.json");
 
 module.exports = scraper;
 

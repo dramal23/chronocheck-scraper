@@ -1,0 +1,71 @@
+[
+  {
+    "brand_name": "Tudor",
+    "model_name": "Black Bay",
+    "price": "1739",
+    "datetime": "24/04/2024"
+  },
+  {
+    "image": "https://cdn2.chrono24.com/cdn-cgi/image/f=auto,metadata=none,q=65,h=305/images/topmodels/838-ltq6bpz81uttpztr62whz2l3-Original.png",
+    "brand_name": "Tudor",
+    "model_name": "Submariner",
+    "price": "2319",
+    "datetime": "24/04/2024"
+  },
+  {
+    "image": "https://cdn2.chrono24.com/cdn-cgi/image/f=auto,metadata=none,q=65,h=305/images/topmodels/642-pize0gq1zwc4umd6obx1n81w-Original.png",
+    "brand_name": "Tudor",
+    "model_name": "Pelagos",
+    "price": "3009",
+    "datetime": "24/04/2024"
+  },
+  {
+    "image": "https://cdn2.chrono24.com/cdn-cgi/image/f=auto,metadata=none,q=65,h=305/images/topmodels/640-q2dq8rgiwo8shr2cgpyn4moq-Original.png",
+    "brand_name": "Tudor",
+    "model_name": "Fastrider",
+    "price": "2837",
+    "datetime": "24/04/2024"
+  },
+  {
+    "image": "https://cdn2.chrono24.com/cdn-cgi/image/f=auto,metadata=none,q=65,h=305/images/topmodels/205-ldeuwfi48f2z7xutqzd1zz5d-Original.png",
+    "brand_name": "Tudor",
+    "model_name": "Grantour",
+    "price": "1853",
+    "datetime": "24/04/2024"
+  },
+  {
+    "image": "https://cdn2.chrono24.com/cdn-cgi/image/f=auto,metadata=none,q=65,h=305/images/topmodels/1437-49f0y9p5l2jtbpbytbr95w6m-Original.png",
+    "brand_name": "Tudor",
+    "model_name": "Classic",
+    "price": "1301",
+    "datetime": "24/04/2024"
+  },
+  {
+    "image": "https://cdn2.chrono24.com/cdn-cgi/image/f=auto,metadata=none,q=65,h=305/images/topmodels/1424-fx907swu74wnut59a0lp7n2h-Original.png",
+    "brand_name": "Tudor",
+    "model_name": "Fastrider Black Shield",
+    "price": "3051",
+    "datetime": "24/04/2024"
+  },
+  {
+    "image": "https://cdn2.chrono24.com/cdn-cgi/image/f=auto,metadata=none,q=65,h=305/images/topmodels/206-39ft3ndjm090zk015w43h6qg-Original.png",
+    "brand_name": "Tudor",
+    "model_name": "Heritage Chrono",
+    "price": "2828",
+    "datetime": "24/04/2024"
+  },
+  {
+    "image": "https://cdn2.chrono24.com/cdn-cgi/image/f=auto,metadata=none,q=65,h=305/images/topmodels/1426-avfwvzfps1021ja1gv68uzp2-Original.png",
+    "brand_name": "Tudor",
+    "model_name": "Heritage Ranger",
+    "price": "1963",
+    "datetime": "24/04/2024"
+  },
+  {
+    "image": "https://cdn2.chrono24.com/cdn-cgi/image/f=auto,metadata=none,q=65,h=305/images/topmodels/1422-9y9lpremk8ncatj5ged97tg1-Original.png",
+    "brand_name": "Tudor",
+    "model_name": "North Flag",
+    "price": "2830",
+    "datetime": "24/04/2024"
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "brand_name": "TAG Heuer",
+    "model_name": "Carrera",
+    "price": "886",
+    "datetime": "24/04/2024"
+  },
+  {
+    "image": "https://cdn2.chrono24.com/cdn-cgi/image/f=auto,metadata=none,q=65,h=305/images/topmodels/149-vw13qvu4fsurm7gv5s2lxguf-Original.png",
+    "brand_name": "TAG Heuer",
+    "model_name": "Aquaracer",
+    "price": "499",
+    "datetime": "24/04/2024"
+  },
+  {
+    "image": "https://cdn2.chrono24.com/cdn-cgi/image/f=auto,metadata=none,q=65,h=305/images/topmodels/151-3voo0pb3kzjl8c8tiknhh425-Original.png",
+    "brand_name": "TAG Heuer",
+    "model_name": "Formula 1",
+    "price": "1",
+    "datetime": "24/04/2024"
+  },
+  {
+    "image": "https://cdn2.chrono24.com/cdn-cgi/image/f=auto,metadata=none,q=65,h=305/images/topmodels/158-omduamkhf5zavu4qfnzv42tc-Original.png",
+    "brand_name": "TAG Heuer",
+    "model_name": "Monaco",
+    "price": "1692",
+    "datetime": "24/04/2024"
+  },
+  {
+    "image": "https://cdn2.chrono24.com/cdn-cgi/image/f=auto,metadata=none,q=65,h=305/images/topmodels/156-rvqbhvkubtj5f8trbx6tiyib-Original.png",
+    "brand_name": "TAG Heuer",
+    "model_name": "Link",
+    "price": "463",
+    "datetime": "24/04/2024"
+  },
+  {
+    "image": "https://cdn2.chrono24.com/cdn-cgi/image/f=auto,metadata=none,q=65,h=305/images/topmodels/2243-1c49sigj956aj9xkjnck79zz-Original.png",
+    "brand_name": "TAG Heuer",
+    "model_name": "Connected",
+    "price": "595",
+    "datetime": "24/04/2024"
+  },
+  {
+    "image": "https://cdn2.chrono24.com/cdn-cgi/image/f=auto,metadata=none,q=65,h=305/images/topmodels/150-2qt0rri5fnvfalqv0bh29dqy-Original.png",
+    "brand_name": "TAG Heuer",
+    "model_name": "Aquaracer Lady",
+    "price": "483",
+    "datetime": "24/04/2024"
+  },
+  {
+    "image": "https://cdn2.chrono24.com/cdn-cgi/image/f=auto,metadata=none,q=65,h=305/images/topmodels/1045-l2bwny7hli23ez9iauaydk7a-Original.png",
+    "brand_name": "TAG Heuer",
+    "model_name": "Autavia",
+    "price": "1999",
+    "datetime": "24/04/2024"
+  },
+  {
+    "image": "https://cdn2.chrono24.com/cdn-cgi/image/f=auto,metadata=none,q=65,h=305/images/topmodels/154-rw4o97quwacjfhcd0rgizn0m-Original.png",
+    "brand_name": "TAG Heuer",
+    "model_name": "Carrera Lady",
+    "price": "832",
+    "datetime": "24/04/2024"
+  },
+  {
+    "image": "https://cdn2.chrono24.com/cdn-cgi/image/f=auto,metadata=none,q=65,h=305/images/topmodels/1044-plsepv37uofp9tuomt75363b-Original.png",
+    "brand_name": "TAG Heuer",
+    "model_name": "Monza",
+    "price": "1786",
+    "datetime": "24/04/2024"
+  }
+]

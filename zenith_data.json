@@ -1,0 +1,64 @@
+[
+  {
+    "brand_name": "Zenith",
+    "model_name": "El Primero",
+    "price": "409",
+    "datetime": "24/04/2024"
+  },
+  {
+    "image": "https://cdn2.chrono24.com/cdn-cgi/image/f=auto,metadata=none,q=65,h=305/images/topmodels/189-yeq9lx6cd2bks5c92t599opn-Original.png",
+    "brand_name": "Zenith",
+    "model_name": "El Primero Chronomaster",
+    "price": "2826",
+    "datetime": "24/04/2024"
+  },
+  {
+    "image": "https://cdn2.chrono24.com/cdn-cgi/image/f=auto,metadata=none,q=65,h=305/images/topmodels/194-icl0aewd80ntgs5y0dhmabf0-Original.png",
+    "brand_name": "Zenith",
+    "model_name": "Elite",
+    "price": "1634",
+    "datetime": "24/04/2024"
+  },
+  {
+    "image": "https://cdn2.chrono24.com/cdn-cgi/image/f=auto,metadata=none,q=65,h=305/images/topmodels/188-xo64xrc6ogro1f7ccw68k805-Original.png",
+    "brand_name": "Zenith",
+    "model_name": "Defy",
+    "price": "425",
+    "datetime": "24/04/2024"
+  },
+  {
+    "image": "https://cdn2.chrono24.com/cdn-cgi/image/f=auto,metadata=none,q=65,h=305/images/topmodels/788-mighkyqx4sl5z61sobspjxgy-Original.png",
+    "brand_name": "Zenith",
+    "model_name": "Captain",
+    "price": "1090",
+    "datetime": "24/04/2024"
+  },
+  {
+    "image": "https://cdn2.chrono24.com/cdn-cgi/image/f=auto,metadata=none,q=65,h=305/images/topmodels/195-jokrbuhqcuvkdw85xatouutt-Original.png",
+    "brand_name": "Zenith",
+    "model_name": "Port Royal",
+    "price": "304",
+    "datetime": "24/04/2024"
+  },
+  {
+    "image": "https://cdn2.chrono24.com/cdn-cgi/image/f=auto,metadata=none,q=65,h=305/images/topmodels/1346-h4u45jwgfp4iqm7ystczv371-Original.png",
+    "brand_name": "Zenith",
+    "model_name": "Pilot",
+    "price": "599",
+    "datetime": "24/04/2024"
+  },
+  {
+    "image": "https://cdn2.chrono24.com/cdn-cgi/image/f=auto,metadata=none,q=65,h=305/images/topmodels/1347-fuuhrzhbzvo06s7opgpjjsdt-Original.png",
+    "brand_name": "Zenith",
+    "model_name": "Star",
+    "price": "430",
+    "datetime": "24/04/2024"
+  },
+  {
+    "image": "https://cdn2.chrono24.com/cdn-cgi/image/f=auto,metadata=none,q=65,h=305/images/topmodels/787-qw6mdcv2764rk2vfuqr00j71-Original.png",
+    "brand_name": "Zenith",
+    "model_name": "Stellina",
+    "price": "360",
+    "datetime": "24/04/2024"
+  }
+]

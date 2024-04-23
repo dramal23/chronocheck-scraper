@@ -1,0 +1,57 @@
+[
+  {
+    "brand_name": "Hublot",
+    "model_name": "Big Bang",
+    "price": "3214",
+    "datetime": "24/04/2024"
+  },
+  {
+    "image": "https://cdn2.chrono24.com/cdn-cgi/image/f=auto,metadata=none,q=65,h=305/images/topmodels/1064-nqwd5o8wcf5bvegiuv7oxv75-Original.png",
+    "brand_name": "Hublot",
+    "model_name": "Classic Fusion",
+    "price": "2617",
+    "datetime": "24/04/2024"
+  },
+  {
+    "image": "https://cdn2.chrono24.com/cdn-cgi/image/f=auto,metadata=none,q=65,h=305/images/topmodels/1065-ae2seivfjwbgqxgobd7rimxu-Original.png",
+    "brand_name": "Hublot",
+    "model_name": "Big Bang Unico",
+    "price": "7825",
+    "datetime": "24/04/2024"
+  },
+  {
+    "image": "https://cdn2.chrono24.com/cdn-cgi/image/f=auto,metadata=none,q=65,h=305/images/topmodels/201-mp2vndvwq6y13bbb4xnm3rwm-Original.png",
+    "brand_name": "Hublot",
+    "model_name": "King Power",
+    "price": "7472",
+    "datetime": "24/04/2024"
+  },
+  {
+    "image": "https://cdn2.chrono24.com/cdn-cgi/image/f=auto,metadata=none,q=65,h=305/images/topmodels/1070-bqfkgmobwbu0ynk26tsvht9z-Original.png",
+    "brand_name": "Hublot",
+    "model_name": "Spirit of Big Bang",
+    "price": "10752",
+    "datetime": "24/04/2024"
+  },
+  {
+    "image": "https://cdn2.chrono24.com/cdn-cgi/image/f=auto,metadata=none,q=65,h=305/images/topmodels/200-i65lo3po6s6fsr1o5zx0rg1u-Original.png",
+    "brand_name": "Hublot",
+    "model_name": "Classic",
+    "price": "1035",
+    "datetime": "24/04/2024"
+  },
+  {
+    "image": "https://cdn2.chrono24.com/cdn-cgi/image/f=auto,metadata=none,q=65,h=305/images/topmodels/1066-mgc1zev6botqbxr2t1wgm3j9-Original.png",
+    "brand_name": "Hublot",
+    "model_name": "Big Bang Ferrari",
+    "price": "9220",
+    "datetime": "24/04/2024"
+  },
+  {
+    "image": "https://cdn2.chrono24.com/cdn-cgi/image/f=auto,metadata=none,q=65,h=305/images/topmodels/2416-4nvgnnpcg6649ksm04z6ncm4-Original.png",
+    "brand_name": "Hublot",
+    "model_name": "Classic Fusion Aerofusion",
+    "price": "7475",
+    "datetime": "24/04/2024"
+  }
+]
